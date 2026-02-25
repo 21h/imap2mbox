@@ -2,7 +2,12 @@
 
 A utility to export email folders from an IMAP server to local mbox files with YAML configuration and optional gzip compression.
 
-Features
+Free for personal and non-commercial use. Contact me if you’d like to use it in your business.
+
+## Project page 
+Documentation and downloads at https://imap2mbox.blindage.org
+
+## Features
 - 📥 Download all messages from specified IMAP folders
 - 📁 Save in standard mbox format (compatible with Claws Mail, Thunderbird, etc.)
 - 🗜️ Optional gzip compression
@@ -11,9 +16,7 @@ Features
 - 🔐 SSL/TLS support (implicit TLS and STARTTLS)
 - 📝 Deduplication
 
-Free for personal and non-commercial use. Contact me if you’d like to use it in your business.
-
-Project page https://imap2mbox.blindage.org
+---
 
 Copyright by Vladimir Smagin, 2026.
 
