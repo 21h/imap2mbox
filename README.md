@@ -2,7 +2,7 @@
 
 A utility to export email folders from an IMAP server to local mbox files with YAML configuration and optional gzip compression.
 
-Free for personal and non-commercial use. Contact me if you’d like to use it in your business.
+Free for personal non-commercial use. Contact me if you’d like to use it in your business.
 
 ## Project page 
 Documentation and downloads at https://imap2mbox.blindage.org
